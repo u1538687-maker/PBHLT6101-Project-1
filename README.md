@@ -5,8 +5,13 @@ ANSUR data analysis
 
 Run first part of the do file
 
-...
-
+```
 stata command 1
+```
 
-...
+## Getting Started
+
+## Download Data 
+
+- provide instructions on how to get access to the data
+- what data sets to download 

@@ -1,7 +1,8 @@
 # PBHLT6101-Project-1
 ANSUR data analysis
+Jesse Evans
 
-## how to run project 
+## Introduction 
 
 Run first part of the do file
 
